@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Streaming App</string>
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_login">Login</string>
+    <!-- Strings related to song search -->
+    <string name="choose_song">Search Artist  Song</string>
+    <string name="search_button">Search</string>
+    <string name="prompt_search_artist">Artist</string>
+    <string name="prompt_search_song">Song</string>
+    <string name="saved_songs_title">Saved songs</string>
+    <string name="saved_songs_hint">Choose a song to play</string>
+    <string name="currently_playing_label">Playing</string>
+    <string name="paused_feedback">Paused</string>
+    <string name="resume_playing_feedback">Resuming</string>
+</resources>

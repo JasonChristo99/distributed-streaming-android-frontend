@@ -1,0 +1,9 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">120dp</dimen>
+    <dimen name="spinner_width">250dp</dimen>
+    <dimen name="spinner_height">32dp</dimen>
+    <dimen name="play_pause_width">50dp</dimen>
+    <dimen name="play_pause_height">55dp</dimen>
+</resources>
